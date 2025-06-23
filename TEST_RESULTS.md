@@ -2,9 +2,7 @@
 
 Este repositorio incluye un conjunto de 50 pruebas sencillas de caja blanca.
 
-| Módulo Evaluado | Nº de Casos de Prueba | Casos Exitosos | Casos Fallidos | Porcentaje de Éxito (%) |
-|-----------------|----------------------|---------------|---------------|-------------------------|
-| Pruebas Simples | 50                   | 50            | 0             | 100%                    |
+
 
 El total de pruebas ejecutadas, incluyendo las pruebas existentes, es 52 y todas finalizan correctamente.
 
