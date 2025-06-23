@@ -8,13 +8,14 @@ use Tests\TestCase;
 class ExampleTest extends TestCase
 {
     /**
-     * A basic test example.
+     * Ejemplo básico de prueba.
      *
      * @return void
      */
     public function test_example()
     {
-        // Simple assertion to keep feature tests environment agnostic.
+        // Aserción simple para que la prueba de características
+        // no dependa del entorno de la aplicación.
         $this->assertTrue(true);
     }
 }

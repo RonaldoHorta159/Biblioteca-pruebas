@@ -7,9 +7,9 @@ use PHPUnit\Framework\TestCase;
 class SimpleTest extends TestCase
 {
     /**
-     * Collection of straightforward tests to demonstrate basic
-     * assertions. These do not exercise application logic but
-     * serve as placeholders for white-box testing examples.
+     * Colección de pruebas sencillas para demostrar afirmaciones básicas.
+     * No ejercitan la lógica de la aplicación, solo sirven como ejemplos
+     * de pruebas de caja blanca.
      */
 
     public function test_case_01()
